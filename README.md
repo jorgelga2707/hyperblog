@@ -10,5 +10,4 @@ En este curso se vio de todo:
 * Usar repositorios locales y remotos.
 
 Y como un amable recordatorio **Este readme.md** es el primero diseñado en el curso.
-
-###End
+### End
