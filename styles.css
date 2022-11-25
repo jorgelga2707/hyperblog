@@ -52,7 +52,7 @@ body{
     margin: 0 auto;
 }
 
-#container #post picture img{
+#container #post figure img{
    width: 100%;
    height: 100%;
 }
